@@ -4,113 +4,100 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(1).pdf" style="text-decoration:none;">CoqIOA: A Formalization of IO Automata in the
-Coq Proof Assistant</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(1).pdf" style="text-decoration:none;">Multiscale approaches to music audio feature learning</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(2).pdf" style="text-decoration:none;">An Offline Foundation for
-Online Accountable Pseudonyms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(2).pdf" style="text-decoration:none;">Singing Voice Melody Transcription Using Deep Neural Networks</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(3).pdf" style="text-decoration:none;">A Programming Language
-Based on Classical Logic</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(5).pdf" style="text-decoration:none;">Mobile Computing with the Rover Toolkit</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(6).pdf" style="text-decoration:none;">Improving Network Connection Locality on Multicore Systems</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(7).pdf" style="text-decoration:none;">Asynchronous intrusion recovery
-for interconnected web services</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(3).pdf" style="text-decoration:none;">A Hybrid Recurrent Neural Network For Music Transcription</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(4).pdf" style="text-decoration:none;">Deep Learning and Music Adversaries</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(5).pdf" style="text-decoration:none;">An End-to-End Neural Network for Polyphonic
+Piano Music Transcription</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(6).pdf" style="text-decoration:none;">A Deep Bag-of-Features Model for Music
+Auto-Tagging</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(7).pdf" style="text-decoration:none;">Automatic Instrument Recognition in Polyphonic Music Using Convolutional Neural Networks</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(8).pdf" style="text-decoration:none;"> Performance Optimization of the VDFS Verified
-File System </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(9).pdf" style="text-decoration:none;">Algorand: Scaling Byzantine Agreements
-for Cryptocurrencies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(8).pdf" style="text-decoration:none;"> Fast And Accurate Deep Network Learning By
+Exponential Linear Units (ELUS) </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(9).pdf" style="text-decoration:none;">Musical Instrument Sound Classification With Deep Convolutional Neural Network Using Feature Fusion Approach</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(10).pdf" style="text-decoration:none;">Alpaca: Extensible Authorization for Distributed Services </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(10).pdf" style="text-decoration:none;">Robust Audio Event Recognition with 1-Max Pooling Convolutional Neural Networks</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(11).pdf" style="text-decoration:none;">Deep Convolutional Neural Networks and Data Augmentation for Acoustic Event Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(12).pdf" style="text-decoration:none;">Automatic tagging using deep convolutional neural networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(13).pdf" style="text-decoration:none;">Towards Playlist Generation Algorithms Using
+RNNs Trained on Within-Track Transitions</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(14).pdf" style="text-decoration:none;">Quboid: A Workstation for Safer Web Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(14).pdf" style="text-decoration:none;">Deep Learning for Music</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(15).pdf" style="text-decoration:none;">Argosy: Verifying Layered Storage Systems with
-Recovery Refinement</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(15).pdf" style="text-decoration:none;">Unsupervised Feature Learning Based on Deep
+Models for Environmental Audio Tagging</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
-for Data Analytics Clusters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(16).pdf" style="text-decoration:none;">CNN Architectures for Large-Scale Audio Classification</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(17).pdf" style="text-decoration:none;">DeepBach: a Steerable Model for Bach Chorales Generation</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(18).pdf" style="text-decoration:none;">Labels and Event Processes
-in the Asbestos Operating System</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(18).pdf" style="text-decoration:none;">Feature. Learning for Chord Recognition: The Deep Chroma Extractor</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(19).pdf" style="text-decoration:none;">On The Potential Of Simple Framewise Approaches To Piano Transcription</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(20).pdf" style="text-decoration:none;">The benefits and costs of writing a
-POSIX kernel in a high-level language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(20).pdf" style="text-decoration:none;">Sample-level Deep Convolutional Neural Networks For Music Auto-tagging Using Rawwaveforms</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(21).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(22).pdf" style="text-decoration:none;">LLVM: A Compilation Framework for
-Lifelong Program Analysis and Transformation</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(23).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX
-Kernel in a High-Level Language [Cody Cutler]</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(21).pdf" style="text-decoration:none;">Multi-Level and Multi-Scale Feature Aggregation Using Pre-trained Convolutional Neural Networks for Music Auto-tagging</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(22).pdf" style="text-decoration:none;">Attention and Localization based on a Deep Convolutional Recurrent Model for Weakly Supervised Audio Tagging</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(23).pdf" style="text-decoration:none;">Transfer Learning For
+Music Classification And Regression Tasks</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(24).pdf" style="text-decoration:none;">Separating Web Applications from User Data Storage with BSTORE</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(24).pdf" style="text-decoration:none;">Stacked Convolutional And Recurrent Neural Networks For Music Emotion Recognition</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(25).pdf" style="text-decoration:none;">A Methodical Study of Web Crawler</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(25).pdf" style="text-decoration:none;">End-to-End Musical Key Estimation Using a
+Convolutional Neural Network</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(26).pdf" style="text-decoration:none;">Multi-Level and Multi-Scale Feature Aggregation Using Sample-level Deep Convolutional Neural Networks for Music Classification</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(27).pdf" style="text-decoration:none;">Gabor frames and deep scattering
+networks in audio processing</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(28).pdf" style="text-decoration:none;">A Deep Multimodal Approach for Cold-start
+Music Recommendation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(29).pdf" style="text-decoration:none;">Audio To Score Matching By Combining Phonetic And Duration Information </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(30).pdf" style="text-decoration:none;">GLSR-VAE: Geodesic Latent Space Regularization for Variational AutoEncoder Architectures</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(31).pdf" style="text-decoration:none;">DNN And CNN With Weighted And Multi-task Loss Functions For Audio Event Detection</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(32).pdf" style="text-decoration:none;">Ensemble Of Deep Neural Networks For Acoustic Scene Classification</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(33).pdf" style="text-decoration:none;">Supervised Speech Separation Based on Deep Learning: An Overview</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(34).pdf" style="text-decoration:none;">XFlow: Cross-modal Deep Neural Networks
+for Audiovisual Classification</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(35).pdf" style="text-decoration:none;">Deep rank-based transposition-invariant distances on musical sequences</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(36).pdf" style="text-decoration:none;">Deep Learning Techniques for Music Generation – A Survey</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(37).pdf" style="text-decoration:none;">A Comparison Of Audio Signal Preprocessing Methods For Deep Neural Networks On Music Tagging</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(38).pdf" style="text-decoration:none;">Basic Filters for Convolutional Neural Networks Applied to Music: Training or Design?</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(39).pdf" style="text-decoration:none;">A Tutorial on Deep Learning for Music Information Retrieval</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(40).pdf" style="text-decoration:none;">MuseGAN: Multi-track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(41).pdf" style="text-decoration:none;">Interactive Music Generation with Positional Constraints using Anticipation-RNNs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(42).pdf" style="text-decoration:none;">Large Vocabulary Automatic Chord Estimation Using Deep Neural Nets: Design Framework, System Variations and Limitations</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(43).pdf" style="text-decoration:none;">A Hybrid DSP/Deep Learning Approach to
+Real-Time Full-Band Speech Enhancement</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(44).pdf" style="text-decoration:none;">Dilated Recurrent Neural Networks</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(45).pdf" style="text-decoration:none;">Representation Learning Of Music Using Artist Labels</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(46).pdf" style="text-decoration:none;">Polyphonic Music Generation With Sequence Generative Adversarial Networks</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(48).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(47).pdf" style="text-decoration:none;">Adversarial Semi-supervised Audio Source Separation Applied To Singing Voice Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(48).pdf" style="text-decoration:none;">Reducing Model Complexity For Dnn Based Large-scale Audio Classification</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(49).pdf" style="text-decoration:none;">Scaling Address-Space Operations on Linux with
-TSX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(49).pdf" style="text-decoration:none;">Monaural Singing Voice Separation with Skip-Filtering Connections and Recurrent Inference of Time-Frequency Mask</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(50).pdf" style="text-decoration:none;">Why does cryptographic software fail?
-A case study and open problems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(50).pdf" style="text-decoration:none;">End-to-end Learning For Music Audio Tagging At Scale</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(51).pdf" style="text-decoration:none;">Invariances And Data Augmentation For Supervised Music Transcription</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Music-DL-Papers/blob/master/ml(53).pdf" style="text-decoration:none;">The Little Manual of
